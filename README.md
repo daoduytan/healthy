@@ -35,4 +35,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 Project uses localStorage to check if the user has logged in or not.
 
 -   When the user has not logged in and tries to access pages that require login, the browser will redirect to the login page.
--   When the user submit login form, sample data will storage in localStorage, the browser will redirect to the '/' page
+-   When the user submit login form, sample data will storage in localStorage, the browser will redirect to the '/' page.

@@ -1,7 +1,6 @@
 import { Chart, CircleChart } from '@/components/my-page';
 import { Dishs } from '@/components/page/my-page';
 import { Container } from '@/components/share';
-import moment from 'moment';
 
 export default async function Home() {
     return (

@@ -1,6 +1,5 @@
 import { inter, noto_sans_jp } from '@/config/fonts';
 import type { ColumnPostItem } from '@/models/column';
-import moment from 'moment';
 import Image from 'next/image';
 import { twMerge } from 'tailwind-merge';
 
